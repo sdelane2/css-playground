@@ -54,5 +54,8 @@ body {
     padding: 0;
 }
 .main-nav__item {
+    color: #0e4f1f;
     display: inline-block;
+    text-decoration: none;
+    margin: 0 16px;
 }
