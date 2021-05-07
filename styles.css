@@ -112,3 +112,11 @@ body {
     border-radius: 8px
 
 }
+
+.plan__features {
+    list-style-type: none;
+}
+
+.plan__features li {
+    margin: 8px 0;
+}
