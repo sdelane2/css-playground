@@ -113,6 +113,22 @@ body {
 
 }
 
+.plan__title{
+    color: #0e4f1f
+}
+
+.plan__price{
+    color: rgb(133, 133, 133)
+}
+
+.plan--highlighted .plan__price{
+    color: #0e4f1f
+}
+
+.plan--highlighted .plan__title{
+    color: white;
+
+}
 .plan__features {
     list-style-type: none;
 }
