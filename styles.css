@@ -103,3 +103,12 @@ body {
     color: white;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .5);
 }
+
+.plan__annotation {
+    color: #19b84c;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .5);
+    padding: 8px;
+    border-radius: 8px
+
+}
